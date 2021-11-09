@@ -24,11 +24,30 @@ CSS контент - обязателен, будет не приятно игр
 
 ## Подключение:
 
-* _Кратко_: Запустить _Garry's Mod (steam), открыть консоль -> вбить: _`connect`_` `_`46.174.52.121:27015` или перейти по [https://nebulaservers.xyz/redirects/c8alliance](https://nebulaservers.xyz/redirects/c8alliance) для автоматического быстро подключения.
+* _Кратко_: Запустить _Garry's Mod (steam), открыть консоль -> вбить: _`connect 46.174.52.121:27015` или перейти по [https://nebulaservers.xyz/redirects/c8alliance](https://nebulaservers.xyz/redirects/c8alliance) для автоматического быстро подключения.
 
 ### Подключение по шагам:
 
 {% hint style="info" %}
-Самый быстрый способ подключения это Fast Connect, достаточно просто нажать на [https://nebulaservers.xyz/redirects/c8alliance](https://nebulaservers.xyz/redirects/c8alliance) или [steam://connect/46.174.52.121:27015](steam://connect/46.174.52.121:27015)
+Самый быстрый способ подключения это Fast Connect, достаточно просто нажать на [https://nebulaservers.xyz/redirects/c8alliance](https://nebulaservers.xyz/redirects/c8alliance) или [steam://connect/46.174.52.121:27015](steam://connect/46.174.52.121:27015).
 {% endhint %}
 
+Подключение через игру:
+
+1. Запустить игру Garry's Mod.
+2. Открыть консоль (по умолчанию \~ или \` или Ё кнопка.)
+3. Ввести в консоль: `connect 46.174.52.121:27015`
+
+Или:
+
+&#x20;1\. Запустить игру Garry's Mod.
+
+&#x20;2\. Нажать на ![](<../.gitbook/assets/Screenshot 2021-11-09 125016.png>).
+
+&#x20;3\. Нажать на ![](<../.gitbook/assets/Screenshot 2021-11-09 132944.png>).
+
+&#x20;4\. В поиске вбить half или Half-Life ![](<../.gitbook/assets/Screenshot 2021-11-09 133050.png>).
+
+&#x20;5\. Подождать и нажать на:![](../.gitbook/assets/image.png)&#x20;
+
+&#x20;6\. Нажать на кнопку ![](<../.gitbook/assets/image (1).png>)
