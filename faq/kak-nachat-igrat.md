@@ -8,7 +8,7 @@ coverY: 0
 
 ## Требования:
 
-* Кратко: _Garry's Mod (steam), CSS контент, контент сервера C8 Alliance (опцианально), отличное настроение! _:tada:
+* Кратко: _Garry's Mod (steam), CSS контент, контент сервера C8 Alliance (опцианально), отличное настроение!_ :tada:
 
 {% hint style="warning" %}
 CSS контент - обязателен, будет не приятно играть на 90% серверов.
@@ -18,7 +18,7 @@ CSS контент - обязателен, будет не приятно игр
 
 ### Что требуется для игры на сервере?
 
-1. Лицензионная копия игры [_Garry's Mod_](https://store.steampowered.com/app/4000/Garrys\_Mod/) из [_Steam_](https://store.steampowered.com), купить его можно тут: [_**https://store.steampowered.com/app/4000/Garrys\_Mod/**_](https://store.steampowered.com/app/4000/Garrys\_Mod/)_\*\*\*\*_
+1. Лицензионная копия игры [_Garry's Mod_](https://store.steampowered.com/app/4000/Garrys\_Mod/) из [_Steam_](https://store.steampowered.com), купить его можно тут: [_**https://store.steampowered.com/app/4000/Garrys\_Mod/**_](https://store.steampowered.com/app/4000/Garrys\_Mod/)__
 2. CSS контент - его можно легко в интернете. (добавить ссылку на CSS контент.)
 3. Контент сервера - Нажми сюда -> [КОНТЕНТ](https://steamcommunity.com/sharedfiles/filedetails/?id=1257683679). Установка довольно проста. Нужно нажать на кнопку [![](<../.gitbook/assets/Screenshot 2021-11-09 123227.png>)](https://steamcommunity.com/sharedfiles/filedetails/?id=1257683679)(в русской версии STEAM - "Подписаться на всё.")
 
