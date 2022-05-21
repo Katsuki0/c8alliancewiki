@@ -10,5 +10,5 @@
 
 ## 🥷 Игровые Фракции
 
-* [OTA (СЧОПА)](igrovye-frakcii/ota-schopa.md)
-* [Гражданская Оборона (ТЕСТОВОЕ)](igrovye-frakcii/grazhdanskaya-oborona-testovoe.md)
+* [🤖 OTA (СЧОПА)](igrovye-frakcii/ota-schopa.md)
+* [👮♂ Гражданская Оборона](igrovye-frakcii/grazhdanskaya-oborona-testovoe.md)
